@@ -259,7 +259,7 @@ export const paymentApi = {
   // Updated to accept currency parameter
   getPlans: async (currency: string) => {
     try {
-      const response = await apiClient.get(`/api/payment/plans?currency=${currency}`);
+      const response = await apiClient.get(`/payment/plans?currency=${currency}`);
       return response.data;
     } catch (error) {
       console.error('Error fetching plans:', error);
@@ -296,7 +296,7 @@ export const paymentApi = {
       const user = getAuth().currentUser;
       if (user) {
         const token = await user.getIdToken();
-        const response = await apiClient.get(`/api/payment/verify?session_id=${sessionId}`, {
+        const response = await apiClient.get(`/payment/verify?session_id=${sessionId}`, {
           headers: {
             Authorization: `Bearer ${token}`
           }
@@ -335,7 +335,7 @@ export const paymentApi = {
 export const adminApi = {
   getStats: async () => {
     try {
-      const response = await apiClient.get('/api/admin/stats');
+      const response = await apiClient.get('/admin/stats');
       console.log('Admin stats API response:', response.data);
       return response.data;
     } catch (error) {
@@ -346,7 +346,7 @@ export const adminApi = {
   
   getUsers: async () => {
     try {
-      const response = await apiClient.get('/api/admin/users');
+      const response = await apiClient.get('/admin/users');
       console.log('Admin users API response:', response.data);
       return response.data;
     } catch (error) {
@@ -357,7 +357,7 @@ export const adminApi = {
   
   getDocuments: async () => {
     try {
-      const response = await apiClient.get('/api/admin/documents');
+      const response = await apiClient.get('/admin/documents');
       console.log('Admin documents API response:', response.data);
       return response.data;
     } catch (error) {
@@ -402,7 +402,7 @@ export const adminApi = {
 // Health check function
 export const checkServerHealth = async () => {
   try {
-    const response = await apiClient.get('/api/health');
+    const response = await apiClient.get('/health');
     return response.data;
   } catch (error) {
     console.error('Health check failed:', error);
