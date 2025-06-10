@@ -87,11 +87,11 @@
   },
   "navbar": {
     "home": "Accueil",
-    "resume": "Créateur de CV",
-    "coverLetter": "Lettre de motivation",
+    "resume": "CV",
+    "coverLetter": "Lettre",
     "login": "Se connecter",
     "register": "S'inscrire",
-    "settings": "Paramètres du compte",
+    "settings": "Paramètres",
     "logout": "Se déconnecter",
     "logoutSuccess": "Déconnexion réussie",
     "logoutError": "Échec de la déconnexion. Veuillez réessayer."
