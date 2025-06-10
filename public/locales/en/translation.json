@@ -1,0 +1,1234 @@
+{
+  "home": {
+    "readyTitle": "Ready to create your professional resume?",
+    "readyDescription": "Get started now and have a professional resume ready in minutes. Our AI-powered platform will help you create a standout document.",
+    "createResume": "Create Resume",
+    "writeCoverLetter": "Write Cover Letter",
+    "rights": "All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  },
+  "features": {
+    "title": "Get Hired Faster",
+    "subtitle": "Everything you need to create standout job applications",
+    "description": "Our AI-powered platform helps you create professionally crafted resumes and cover letters that stand out to both hiring managers and application systems.",
+    "aiPoweredContent": {
+      "name": "AI-Powered Content",
+      "description": "Use AI to generate professional content for your resume and cover letters based on your experience."
+    },
+    "atsOptimized": {
+      "name": "ATS Optimized",
+      "description": "Our templates are designed to pass through Applicant Tracking Systems with ease."
+    },
+    "professionalTemplates": {
+      "name": "Professional Templates",
+      "description": "Choose from multiple professionally designed templates for any industry or position."
+    },
+    "instantGeneration": {
+      "name": "Instant Generation",
+      "description": "Create a professional resume in minutes, not hours, with our streamlined process."
+    },
+    "keywordOptimization": {
+      "name": "Keyword Optimization",
+      "description": "Get suggestions for industry-specific keywords to include in your resume."
+    },
+    "exportToPDF": {
+      "name": "Export to PDF",
+      "description": "Download your completed resume or cover letter as a professional PDF document."
+    }
+  },
+  
+  "hero": {
+    "title": "Build your standout resume with ease",
+    "description": "Create professional resumes and cover letters that get noticed",
+    "createResume": "Create Resume",
+    "writeCoverLetter": "Write Cover Letter",
+    "resume": {
+      "name": "John Smith",
+      "email": "john.smith@gmail.com",
+      "phone": "(555) 123-4567",
+      "location": "New York, NY",
+      "linkedin": "linkedin.com/in/johnsmith",
+      "summary": {
+        "title": "Professional Summary",
+        "content": "Experienced professional with a background in web development and software engineering..."
+      },
+      "education": {
+        "title": "Education",
+        "university": "University Name",
+        "degree": "Bachelor of Science",
+        "details": "GPA 3.8, Relevant coursework: Data Structures, Algorithms"
+      },
+      "experience": {
+        "title": "Work Experience",
+        "position": "Software Engineer — Tech Corp",
+        "current": "Present",
+        "details": "Built and maintained web apps using React and Node.js."
+      },
+      "projects": {
+        "title": "Projects",
+        "projectName": "Portfolio Website"
+      },
+      "certifications": {
+        "title": "Certifications",
+        "cert": "Certified JavaScript Developer – 2023"
+      },
+      "skills": {
+        "title": "Skills",
+        "item1": "JavaScript, Python, React",
+        "item2": "REST APIs, MongoDB, Git"
+      },
+      "custom": {
+        "title": "Custom Section: Volunteering",
+        "content": "Organized local coding bootcamps for underprivileged students."
+      }
+    }
+  },
+  "navbar": {
+    "home": "Home",
+    "resume": "Resume Builder",
+    "coverLetter": "Cover Letter",
+    "login": "Login",
+    "register": "Register",
+    "settings": "Account Settings",
+    "logout": "Logout",
+    "logoutSuccess": "Logged out successfully",
+    "logoutError": "Failed to log out. Please try again."
+  },
+  
+  "userSettings": {
+    "accountSettings": "Account Settings",
+    "manageAccount": "Manage your account details and subscription.",
+    "subscription": "Subscription",
+    "manageSubscription": "Manage your subscription plan and billing.",
+    "currentPlan": "Current Plan",
+    "plan": "Plan",
+    "noActiveSubscription": "No active subscription",
+    "basicPlanDesc": "Basic plan with limited features.",
+    "proPlanDesc": "Pro plan with full access and benefits.",
+    "freePlanDesc": "Free plan with limited access.",
+    "cancelSubscription": "Cancel Subscription",
+    "subscribeNow": "Subscribe Now",
+    "dangerZone": "Danger Zone",
+    "deleteAccountPermanent": "Permanently delete your account and data.",
+    "deleteAccount": "Delete Account",
+    "unsubscribeSuccess": "Subscription cancelled",
+    "unsubscribeDescription": "You have successfully cancelled your subscription.",
+    "unsubscribeFail": "Failed to cancel subscription",
+    "unsubscribeFailDescription": "An error occurred while cancelling. Please try again.",
+    "error": "Error",
+    "tryAgain": "Please try again later.",
+    "unsubscribeConfirm": "Are you sure you want to cancel your subscription? This action cannot be undone.",
+    "unsubscribeLossIntro": "You will lose access to the following features:",
+    "unsubscribeAiEnhancements": "AI-enhanced templates and features",
+    "unsubscribePremiumTemplates": "Premium templates",
+    "unsubscribeAdvancedFormatting": "Advanced formatting options",
+    "unsubscribeLinkedin": "LinkedIn resume exports",
+    "processing": "Processing...",
+    "accountDeleted": "Account deleted",
+    "accountDeletedDesc": "Your account has been permanently deleted.",
+    "deletionFailed": "Failed to delete account",
+    "deletionFailedDesc": "An error occurred during account deletion.",
+    "confirmAccountDeletion": "Confirm Account Deletion",
+    "deleteAccountConfirm": "Are you absolutely sure you want to delete your account? This cannot be undone.",
+    "deleteAccountWarning": "This action will permanently delete your account and all associated data.",
+    "cancel": "Cancel",
+    "deleting": "Deleting..."
+  },
+  "locale": "en-US",
+  "errors": {
+    "loadPlans": "Could not load subscription plans",
+    "loginToSubscribe": "Please log in to subscribe",
+    "checkoutSession": "Could not create checkout session",
+    "subscriptionFailed": "Failed to start {{plan}} subscription process",
+    "unableToLoadPlans": "Unable to load subscription plans"
+  },
+  "plans": {
+    "basic": {
+      "title": "Basic Plan",
+      "description": "For simple resume and cover letter needs",
+      "paymentType": "one-time payment",
+      "features": {
+        "templates": "Access to all basic templates",
+        "downloads": "PDF and Word downloads",
+        "storage": "Unlimited document storage"
+      }
+    },
+    "pro": {
+      "recommended": "RECOMMENDED",
+      "title": "Pro Plan",
+      "description": "For professionals and job seekers",
+      "paymentType": "one-time payment",
+      "features": {
+        "basic": "All Basic plan features",
+        "premiumTemplates": "Access to premium templates",
+        "aiResume": "AI resume enhancement",
+        "aiCoverLetter": "AI cover letter enhancement",
+        "linkedin": "LinkedIn profile optimization"
+      }
+    }
+  },
+  "buttons": {
+    "processing": "Processing...",
+    "currentPlan": "Current Plan",
+    "subscribeNow": "Subscribe Now"
+  },
+  "plansPage": {
+    "title": "Choose Your Plan",
+    "subtitle": "Select the plan that best fits your needs and career goals",
+    "notLoggedInTitle": "Not logged in",
+    "notLoggedInDescription": "Please log in or create an account to purchase a subscription",
+    "footerNote": "All plans are one-time payments that provide permanent access to features. Need help choosing? Contact our support team for guidance."
+  },
+  
+  "resume": {
+    "n1": "Preparing checkout...",
+    "n2": "Subscription Error",
+    "n3": "Something went wrong while starting checkout.",
+    "n4": "Error creating checkout",
+    "n5": "Please try again later.",
+    "n6": "Resume created successfully!",
+    "n7": "Failed to save resume",
+    "n8": "An unexpected error occurred.",
+    "n9": "You must be logged in to save your resume.",
+    "n10": "Resume Builder",
+    "n11": "Resume Content",
+    "n12": "Template",
+    "n13": "Preview",
+    "n14": "Subscribe to Access",
+    "n15": "Upgrade your plan to access the AI assistant.",
+    "n16": "Upgrade your plan to download your resume.",
+    "n17": "Basic Plan",
+    "n18": "Unlimited resume generation",
+    "n19": "Download in PDF format",
+    "n20": "Access to AI assistant",
+    "n21": "Subscribed",
+    "n22": "Subscribe Basic",
+    "n23": "Best Value",
+    "n24": "Pro Plan",
+    "n25": "Priority support",
+    "n26": "Multiple resume versions",
+    "n27": "Advanced templates",
+    "n28": "AI Assistant Access",
+    "n29": "Subscribe Pro",
+    "n30": "Cancel"
+  },
+  
+  "countrycard": {
+    "title": "Country Selection",
+    "description": "Select your country to format your resume accordingly",
+    "select": "Select Country",
+    "selectplaceholder": "Choose a country...",
+    "countryspecific": "Requirements for",
+    "photorecommendation": "Photo is required",
+    "photorecommendationDesc": "Photo is recommended but not required",
+    "phoneFormat": "Phone format",
+    "dateFormat": "Date format",
+    "addressFormat": "Address format"
+  },
+  "information": {
+    "title": "Personal Information",
+    "description": "Enter your personal details",
+    "photo": "PH",
+    "requiredPhoto": "Required Photo*",
+    "profilePhoto": "Profile Photo",
+    "upload": "Upload",
+    "update": "Update",
+    "remove": "Remove",
+    "photoRequiredTitle": "Photo Required",
+    "photoRequiredDesc": "A photo is required for resumes ",
+    "photoError": "Please upload a photo",
+    "photoRequiredText": "A professional photo is required for resumes",
+    "photoRecommendedText": "A professional photo is recommended for resumes",
+    "fullName": "Full Name",
+    "namePlaceholder": "John Doe",
+    "email": "Email",
+    "emailPlaceholder": "john.doe@example.com",
+    "emailError": "Please enter a valid email",
+    "phone": "Phone",
+    "phoneError": "Phone number must match format",
+    "location": "Location",
+    "linkedin": "LinkedIn",
+    "linkedinPlaceholder": "https://linkedin.com/in/username",
+    "invalidEmailTitle": "Invalid Email",
+    "invalidEmailDesc": "Please enter a valid email address",
+    "invalidPhoneTitle": "Invalid Phone Number"
+  },
+  "summary": {
+    "title": "Professional Summary",
+    "description": "Write a brief summary about yourself",
+    "brief":"Write a brief 2-3 sentence summary highlighting your key qualifications and career objectives...",
+    "deatiled":"Write a comprehensive summary (4-6 sentences) covering your professional background, key achievements, and career goals...",
+    "bullet":"Write your summary in bullet points highlighting your main qualifications, skills, and objectives..."
+  },
+  "education": {
+    "title": "Education",
+    "description": "Add your educational background",
+    "addButton": "Add Education",
+    "institution": "Institution",
+    "institutionPlaceholder": "University of...",
+    "degree": "Degree",
+    "degreePlaceholder": "Bachelor of Science in...",
+    "date": "Date",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Details about your education...",
+    "emptyMessage": "No education added yet",
+    "addFirstButton": "Add Education"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "description": "Add your professional experience",
+    "addButton": "Add Experience",
+    "company": "Company",
+    "companyPlaceholder": "Company Name",
+    "position": "Position",
+    "positionPlaceholder": "Your job title",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "current": "Current",
+    "setCurrent": "Set Present",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Your responsibilities and achievements...",
+    "emptyMessage": "No experience added yet",
+    "addFirstButton": "Add Experience"
+  },
+  "skills": {
+    "title": "Skills",
+    "description": "Add your professional skills",
+    "addButton": "Add Skill Category",
+    "category": "Category",
+    "categoryPlaceholder": "Select a category",
+    "skillsLabel": "Skills",
+    "skillsPlaceholder": "List your skills (comma separated)",
+    "emptyMessage": "No skills added yet",
+    "addFirstButton": "Add Skills"
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Add your notable projects",
+    "addButton": "Add Project",
+    "name": "Project Name",
+    "namePlaceholder": "Project Title",
+    "technologies": "Technologies",
+    "technologiesPlaceholder": "Technologies used",
+    "date": "Date",
+    "linkLabel": "Link",
+    "linkPlaceholder": "Project URL",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Project details...",
+    "emptyMessage": "No projects added yet",
+    "addFirstButton": "Add Project"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "description": "Add your professional certifications",
+    "addButton": "Add Certification",
+    "titleLabel": "Certification Title",
+    "titlePlaceholder": "Certification Name",
+    "issuer": "Issuer",
+    "issuerPlaceholder": "Issuing Organization",
+    "dateEarned": "Date Earned",
+    "emptyMessage": "No certifications added yet",
+    "addFirstButton": "Add Certification"
+  },
+  "customSections": {
+    "title": "Additional Sections",
+    "description": "Add custom sections to your resume",
+    "addButton": "Add Section",
+    "suggestionsTitle": "Common sections",
+    "sectionTitle": "Section Title",
+    "titlePlaceholder": "Languages, Volunteer Work, etc.",
+    "content": "Content",
+    "contentPlaceholder": "Section details...",
+    "emptyMessage": "No custom sections added yet",
+    "addFirstButton": "Add Section"
+  },
+  "generate": {
+    "generating": "Generating...",
+    "button": "Generate Resume"
+  },
+
+  "toasts": {
+    "resumeGenerated": "Resume Generated",
+    "resumeCreated": "Your resume has been created successfully!",
+    "generationFailed": "Generation Failed",
+    "generationError": "There was an error generating your resume. Please try again.",
+    "description":"Please fill in the following required fields for"
+  },
+  
+    "chooseTemplate": "Choose a Template",
+    "browseMoreTemplates": "Browse More Templates",
+    "showBasicTemplates": "Show Basic Templates",
+    "proTemplateTitle": "Pro Template",
+    "proTemplateDesc": "Upgrade to a Pro subscription to access premium templates",
+    "premiumTemplatesTitle": "Premium Templates",
+    "premiumTemplatesDesc": "Check out our premium templates available with a Pro subscription",
+    "templateNames": {
+      "professional": "Professional",
+      "modern": "Modern",
+      "minimalist": "Minimalist",
+      "creative": "Creative",
+      "professionalDark": "Professional Dark",
+      "professionalPurple": "Professional Purple",
+      "professionalModern": "Professional Modern",
+      "executive": "Executive",
+      "technical": "Technical",
+      "academic": "Academic",
+      "elegant": "Elegant",
+      "corporate": "Corporate"
+    },
+    "templateDescriptions": {
+      "professional": "Clean and traditional design suitable for most industries",
+      "modern": "Contemporary layout with a fresh, updated look",
+      "minimalist": "Simple, elegant design with plenty of whitespace",
+      "creative": "Distinctive design for creative fields",
+      "professionalDark": "Dark sidebar with professional layout",
+      "professionalPurple": "Elegant purple-themed professional resume",
+      "professionalModern": "Modern professional design with bold header",
+      "executive": "Sophisticated design for senior professionals",
+      "technical": "Optimized for technical roles with skills focus",
+      "academic": "Perfect for academic and research positions",
+      "elegant": "Refined design with sophisticated typography",
+      "corporate": "Professional template for corporate environments"
+    },
+    
+  "ats": {
+    "panelTitle": "ATS Optimization",
+    "panelDescription": "Paste a job description to analyze how well your resume matches the requirements",
+    "textareaPlaceholder": "Paste the job description here...",
+    "analyzeButton": "Analyze Resume",
+    "loading": "Analyzing...",
+    "jobDescriptionRequired": "Job description required",
+    "pasteJobDescriptionWarning": "Please paste a job description to analyze against.",
+    "analysisComplete": "Analysis complete",
+    "analysisDescription": "Your resume has been analyzed against the job description.",
+    "analysisFailed": "Analysis failed",
+    "analysisError": "Could not complete ATS analysis",
+    "error": "Error",
+    "unexpectedError": "An unexpected error occurred during analysis",
+    "resultsTitle": "ATS Analysis Results",
+    "atsScore": "ATS Score",
+    "keywordsAnalysis": "Keywords Analysis",
+    "missingSkills": "Missing Skills",
+    "noCriticalSkills": "No critical skills missing!",
+    "formatImprovements": "Format Improvements",
+    "contentSuggestions": "Content Suggestions",
+    "proTipTitle": "Pro Tip",
+    "proTipDesc": "Customize your resume for each application based on these insights for the best results."
+  },
+  "preview":{
+    "editbutton":"Edit Mode",
+    "viewbutton":"View Mode",
+    "viewbuttondesc":"Click on text to edit it directly",
+    "pdfbutton":"Download PDF",
+    "fullscreenbutton":"Fullscreen",
+    "previewtext": "Preview"
+  },
+  "resumeToolbar":{
+    "enhanceButton": "AI Enhancement",
+    "linkedinButton": "LinkedIn Optimization",
+    "proLabel": "PRO",
+    "linkedInRequiresPro": "LinkedIn optimization requires a Pro subscription",
+    "linkedInSuccess": "LinkedIn optimization tips generated",
+    "linkedInFail": "Failed to generate LinkedIn optimization tips",
+    "linkedInError": "An error occurred while generating LinkedIn tips",
+    "enhanceRequiresPro": "AI enhancement requires a Pro subscription",
+    "enhanceSuccess": "Resume enhanced with AI",
+    "enhanceFail": "Failed to enhance resume with AI",
+    "enhanceError": "An error occurred while enhancing with AI",
+    "linkedInAlertTitle": "LinkedIn Optimization Tips"
+  },
+  
+  
+  "coverLetterform": {
+    "targetCountry": {
+      "title": "Target Country",
+      "description": "Select the country where you're applying. This will customize your cover letter format and tone.",
+      "countryLabel": "Country",
+      "placeholder": "Select target country",
+      "infoButton": "Country Info",
+      "culturalNotes": "Cultural Notes",
+      "maxLength": "Max length",
+      "tone": "Tone",
+      "phoneFormat": "Phone format"
+    },
+    "personalInfo": {
+      "title": "Personal Information",
+      "description": "Your contact details formatted ",
+      "fullName": "Full Name",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "placeholder": {
+        "name": "Your full name",
+        "email": "your.email@example.com",
+        "location": "City, State/Province"
+      }
+    },
+    "recipientInfo": {
+      "title": "Recipient Information",
+      "description": "Details about the person or company you're writing to",
+      "name": "Recipient Name",
+      "titleLabel": "Recipient Title",
+      "company": "Company",
+      "placeholder": {
+        "name": "Hiring Manager",
+        "title": "HR Manager",
+        "company": "Company Name"
+      }
+    },
+    "jobInfo": {
+      "title": "Job Information",
+      "description": "Details about the position you're applying for",
+      "titleLabel": "Job Title",
+      "reference": "Job Reference",
+      "placeholder": {
+        "title": "Position title",
+        "reference": "Reference number"
+      }
+    },
+    "greetingClosing": {
+      "title": "Greeting & Closing",
+      "description": "Appropriate salutations ",
+      "salutation": "Salutation",
+      "closing": "Closing Phrase",
+      "placeholder": {
+        "salutation": "Choose greeting",
+        "closing": "Choose closing"
+      }
+    },
+    "content": {
+      "title": "Cover Letter Content",
+      "description": "Content optimized",
+      "experience": "Experience",
+      "skills": "Skills",
+      "motivation": "Motivation",
+      "closing": "Closing",
+      "autoGenerate": "Will be auto-generated if left empty, optimized"
+    },
+    "generateButton": {
+      "generating": "Generating...",
+      "default": "Generate Country-Specific Cover Letter"
+    }
+
+},
+  
+  "coverLetterToolbar": {
+    "aiEnhancement": "AI Enhancement",
+    "linkedInOptimization": "LinkedIn Optimization",
+    "proTag": "PRO",
+    "linkedInProError": "LinkedIn optimization requires a Pro subscription",
+    "linkedInSuccess": "LinkedIn optimization tips generated",
+    "linkedInFail": "Failed to generate LinkedIn optimization tips",
+    "linkedInError": "An error occurred while generating LinkedIn tips",
+    "aiProError": "AI enhancement requires a Pro subscription",
+    "aiSuccess": "Cover letter enhanced with AI",
+    "aiFail": "Failed to enhance cover letter with AI",
+    "aiError": "An error occurred while enhancing with AI",
+    "linkedInTipsTitle": "LinkedIn Optimization Tips"
+  },
+  
+  "login": {
+    "successTitle": "Login successful",
+    "successDesc": "Welcome back!",
+    "fail": "Failed to login",
+    "googleFail": "Failed to login with Google",
+    "unexpectedError": "An unexpected error occurred",
+    "title": "Login to your account",
+    "subtitle": "Enter your email and password to login",
+    "email": "Email",
+    "emailPlaceholder": "name@example.com",
+    "password": "Password",
+    "passwordPlaceholder": "••••••••",
+    "forgot": "Forgot password?",
+    "loggingIn": "Logging in...",
+    "loginWithEmail": "Login with Email",
+    "or": "or",
+    "googleSigning": "Signing in...",
+    "googleSignIn": "Sign in with Google",
+    "noAccount": "Don't have an account?",
+    "signup": "Sign up"
+  },
+  
+  "register": {
+    "title": "Create an account",
+    "description": "Enter your email and create a password to sign up",
+    "emailLabel": "Email",
+    "emailPlaceholder": "name@example.com",
+    "passwordLabel": "Password",
+    "passwordPlaceholder": "••••••••",
+    "confirmPasswordLabel": "Confirm Password",
+    "confirmPasswordPlaceholder": "••••••••",
+    "registerBtn": "Register with Email",
+    "creating": "Creating account...",
+    "or": "or",
+    "googleBtn": "Sign up with Google",
+    "signingUp": "Signing up...",
+    "alreadyAccount": "Already have an account?",
+    "signIn": "Sign in",
+    "passwordsNoMatch": "Passwords do not match",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "successTitle": "Registration successful",
+    "successDescription": "Your account has been created",
+    "googleSuccessTitle": "Account created",
+    "googleSuccessDescription": "Your account has been created with Google",
+    "failed": "Failed to register",
+    "googleFailed": "Failed to sign up with Google",
+    "unexpectedError": "An unexpected error occurred"
+  },
+  
+  "terms": {
+    "backToHome": "Back to Home",
+    "title": "Terms of Service",
+    "introduction": {
+      "title": "1. Introduction",
+      "content": "Welcome to FLACRONCV. By accessing or using our service, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, you may not access the service."
+    },
+    "license": {
+      "title": "2. Use License",
+      "content": "Permission is granted to temporarily download one copy of the materials on FLACRONCV's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:",
+      "list": {
+        "1": "Modify or copy the materials;",
+        "2": "Use the materials for any commercial purpose or for any public display;",
+        "3": "Attempt to reverse engineer any software contained on FLACRONCV's website;",
+        "4": "Remove any copyright or other proprietary notations from the materials;",
+        "5": "Transfer the materials to another person or \"mirror\" the materials on any other server."
+      }
+    },
+    "disclaimer": {
+      "title": "3. Disclaimer",
+      "content": "The materials on FLACRONCV's website are provided \"as is\". FLACRONCV makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties."
+    },
+    "limitations": {
+      "title": "4. Limitations",
+      "content": "In no event shall FLACRONCV or its suppliers be liable for any damages arising out of the use or inability to use the materials on FLACRONCV's website."
+    },
+    "subscriptions": {
+      "title": "5. Subscriptions and Payments",
+      "content": "Some features of FLACRONCV require a subscription. You agree to pay all fees charged to your account based on the pricing and billing terms presented at the time of subscription."
+    },
+    "privacy": {
+      "title": "6. Privacy Policy",
+      "content": "Your use of FLACRONCV is also governed by our Privacy Policy, which can be found",
+      "link": "here"
+    },
+    "governingLaw": {
+      "title": "7. Governing Law",
+      "content": "These Terms shall be governed and construed in accordance with the laws applicable in your jurisdiction."
+    },
+    "changes": {
+      "title": "8. Changes to Terms",
+      "content": "FLACRONCV reserves the right to modify or replace these Terms at any time. We will provide at least 30 days' notice for any material changes."
+    }
+  },
+  
+  "privacy": {
+    "backToHome": "Back to Home",
+    "title": "Privacy Policy",
+    "intro": {
+      "title": "1. Introduction",
+      "text": "At FLACRONCV, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our resume and cover letter creation services."
+    },
+    "info": {
+      "title": "2. Information We Collect",
+      "text": "We may collect information about you in a variety of ways, including:",
+      "personal": {
+        "title": "2.1 Personal Data",
+        "text": "When you register an account or use our services, we may collect personally identifiable information, such as your:",
+        "items": {
+          "name": "Name",
+          "email": "Email address",
+          "phone": "Phone number",
+          "resume": "Resume and cover letter content",
+          "payment": "Payment information",
+          "photo": "Profile photo (if uploaded)"
+        }
+      },
+      "usage": {
+        "title": "2.2 Usage Data",
+        "text": "We may also collect information on how the service is accessed and used. This data may include:",
+        "items": {
+          "ip": "Your computer's Internet Protocol address",
+          "browserType": "Browser type",
+          "browserVersion": "Browser version",
+          "pagesVisited": "Pages of our service that you visit",
+          "visitTime": "Time and date of your visit",
+          "timeSpent": "Time spent on those pages",
+          "diagnostics": "Other diagnostic data"
+        }
+      }
+    },
+    "usage": {
+      "title": "3. How We Use Your Information",
+      "text": "We may use the information we collect about you to:",
+      "items": {
+        "service": "Provide, maintain, and improve our services",
+        "payments": "Process your subscription and payments",
+        "notices": "Send you technical notices and support messages",
+        "feedback": "Respond to your comments and questions",
+        "development": "Develop new products and services",
+        "monitoring": "Monitor usage of our services",
+        "fraud": "Detect, investigate and prevent fraudulent transactions and other illegal activities"
+      }
+    },
+    "sharing": {
+      "title": "4. Sharing Your Information",
+      "text": "We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties except in the following cases:",
+      "items": {
+        "providers": "With service providers who perform services on our behalf",
+        "legal": "To comply with legal obligations",
+        "defense": "To protect and defend our rights and property",
+        "consent": "With your consent or at your direction"
+      }
+    },
+    "security": {
+      "title": "5. Data Security",
+      "text": "We implement appropriate technical and organizational measures to protect the security of your personal information. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure."
+    },
+    "rights": {
+      "title": "6. Your Data Protection Rights",
+      "text": "Depending on your location, you may have certain rights regarding your personal data, such as:",
+      "items": {
+        "access": "The right to access your personal data",
+        "rectify": "The right to rectify inaccurate personal data",
+        "erase": "The right to erasure of your personal data",
+        "restrict": "The right to restrict processing of your personal data",
+        "portability": "The right to data portability",
+        "object": "The right to object to processing of your personal data"
+      }
+    },
+    "contact": {
+      "title": "7. Contact Us",
+      "text": "If you have any questions about this Privacy Policy, please",
+      "link": "contact us"
+    }
+  },
+  
+  "contactbuttons": {
+    "backToHome": "Back to Home",
+    "sending": "Sending...",
+    "sendMessage": "Send Message"
+  },
+  "titles": {
+    "contactUs": "Contact Us"
+  },
+  "contactPage": {
+    "description": "Have questions or feedback? We'd love to hear from you.",
+    "getInTouch": "Get in Touch",
+    "emailTitle": "Email",
+    "emailResponseTime": "We'll respond within 24 hours",
+    "liveChatTitle": "Live Chat",
+    "liveChatAvailability": "Available Monday to Friday",
+    "liveChatHours": "9:00 AM - 6:00 PM EST"
+  },
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "your.email@example.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "What is this regarding?",
+    "message": "Message",
+    "messagePlaceholder": "How can we help you?",
+    "nameError": "Name must be at least 2 characters.",
+    "emailError": "Please enter a valid email address.",
+    "subjectError": "Subject must be at least 5 characters.",
+    "messageError": "Message must be at least 10 characters."
+  },
+  "toast": {
+    "successTitle": "Message sent successfully!",
+    "successDescription": "We will get back to you shortly.",
+    "errorTitle": "Failed to send message",
+    "errorDescription": "Please try again later."
+  },
+  "contacterrors": {
+    "userNotFound": "User not found"
+  },
+  
+  "coverLetterBuilder": {
+    "title": "FLACRONCV Cover Letter Builder"
+  },
+  "tabs": {
+    "content": "Cover Letter Content",
+    "template": "Choose Template"
+  },
+  "previews": {
+    "title": "Preview"
+  },
+  "dialog": {
+    "title": "Subscribe to Use Premium Features",
+    "description": {
+      "ai": "AI enhancement requires a subscription plan.",
+      "download": "Downloading PDF documents requires a subscription plan."
+    },
+    "cancel": "Cancel"
+  },
+  "coverplans": {
+    "current": "Current Plan",
+    "basic": {
+      "title": "Basic Plan",
+      "features": {
+        "pdf": "PDF downloads",
+        "templates": "Basic templates",
+        "ai": "AI enhancements"
+      },
+      "button": "Choose Basic"
+    },
+    "pro": {
+      "title": "Pro Plan",
+      "badge": "Best Value",
+      "features": {
+        "pdf": "PDF downloads",
+        "templates": "All premium templates",
+        "ai": "AI resume enhancements",
+        "linkedin": "LinkedIn optimization",
+        "support": "Priority support"
+      },
+      "button": "Choose Pro"
+    }
+  },
+  
+  "payment_cancelled": {
+    "title": "Payment Cancelled",
+    "description": "Your payment was cancelled. No charges were made to your account.",
+    "back_to_home": "Back to Home",
+    "continue_without_subscribing": "Continue without subscribing"
+  },
+  
+  "payment_success": {
+    "loading_title": "Verifying your payment...",
+    "loading_description": "Please wait while we confirm your subscription.",
+    "success_title": "Payment Successful!",
+    "plan_message": "You are now subscribed to the {{plan}} plan.",
+    "thank_you": "Thank you for your purchase. You now have full access to all premium features.",
+    "back_to_home": "Back to Home",
+    "continue": "Continue to Resume Builder",
+    "toast": {
+      "success_title": "Payment Successful",
+      "success_description": "You've successfully subscribed to the {{plan}} plan.",
+      "failed_title": "Payment verification failed",
+      "failed_description": "We couldn't verify your payment. Please contact support.",
+      "error_title": "Verification Error",
+      "error_description": "An error occurred while verifying your payment.",
+      "missing_session": "Missing session information"
+    }
+  },
+  
+  "aiService": {
+    "generateContent": {
+      "generating": "Generating content with OpenAI...",
+      "error": "Failed to generate AI content: {{message}}",
+      "throwError": "Failed to generate AI content"
+    },
+    "enhanceResume": {
+      "error": "Resume enhancement failed: {{message}}"
+    },
+    "enhanceCoverLetter": {
+      "error": "Cover letter enhancement failed: {{message}}"
+    }
+  },
+  
+  "error": {
+    "enhancingResume": "Error enhancing resume with OpenAI:",
+    "enhancingCoverLetter": "Error enhancing cover letter with OpenAI:"
+  },
+  "log": {
+    "generatingResume": "Generating resume with data:",
+    "generatingCoverLetter": "Generating cover letter with data:",
+    "savingResume": "Saving resume for user:",
+    "savingCoverLetter": "Saving cover letter for user:"
+  },
+  "apierror": {
+    "generatingResume": "Error generating resume:",
+    "generatingCoverLetter": "Error generating cover letter:",
+    "savingResume": "Error saving resume:",
+    "savingCoverLetter": "Error saving cover letter:",
+    "unknown": "An unknown error occurred"
+  },
+  "defaults": {
+    "resumeSummary": "Dedicated and versatile professional with a proven track record of delivering high-quality solutions. Adept at leveraging technical expertise and collaborative skills to drive project success and achieve business objectives.",
+    "technicalSkillsCategory": "Technical Skills",
+    "technicalSkillsList": "JavaScript, React, Node.js, HTML/CSS, Git, REST APIs",
+    "softSkillsCategory": "Soft Skills",
+    "softSkillsList": "Communication, Problem-solving, Team collaboration, Time management",
+    "coverLetterExperience": "I bring over 5 years of experience in developing web applications and software solutions that deliver exceptional user experiences. In my current role at XYZ Company, I led the development of a customer portal that increased user engagement by 45% and reduced support tickets by 30%.",
+    "coverLetterSkills": "My technical skills include proficiency in JavaScript, React, Node.js, and AWS cloud infrastructure. I excel at building scalable applications and implementing CI/CD pipelines to ensure efficient development workflows.",
+    "coverLetterMotivation": "I am particularly excited about the opportunity to join {{company}} because of your focus on innovative solutions and commitment to customer success. The {{position}} aligns perfectly with my career goals and I believe I can make significant contributions to your team.",
+    "coverLetterClosing": "I look forward to the opportunity to discuss how my skills and experience can benefit your team. Thank you for considering my application.",
+    "yourCompany": "your company",
+    "position": "position"
+  },
+  
+  "professionalresume": {
+    "profilePhotoAlt": "Profile Photo",
+    "yourName": "Your Name",
+    "summary": "Summary",
+    "experience": "Experience",
+    "position": "Position",
+    "company": "Company",
+    "date": "Date",
+    "projects": "Projects",
+    "projectName": "Project Name",
+    "education": "Education",
+    "degree": "Degree",
+    "institution": "Institution",
+    "certifications": "Certifications",
+    "skills": "Skills",
+    "noSummary":"No summary provided"
+  },
+  
+  "modernResume": {
+    "yourName": "Your Name",
+    "professionalSummary": "Professional Summary",
+    "workExperience": "Work Experience",
+    "position": "Position",
+    "company": "Company",
+    "date": "Date",
+    "projects": "Projects",
+    "projectName": "Project Name",
+    "education": "Education",
+    "degree": "Degree",
+    "institution": "Institution",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "certification": "Certification",
+    "languages": "Languages",
+    "interests": "Interests",
+    "customTitle": "Custom Title",
+    "customContent": "Custom content goes here."
+  },
+  
+  "minimalistResume": {
+    "yourName": "Your Name",
+    "experience": "Experience",
+    "position": "Position",
+    "date": "Date",
+    "company": "Company",
+    "projects": "Projects",
+    "projectName": "Project Name",
+    "education": "Education",
+    "degree": "Degree",
+    "institution": "Institution",
+    "skills": "Skills",
+    "languages": "Languages",
+    "interests": "Interests"
+  },
+  
+  "creativeResume": {
+    "yourName": "Your Name",
+    "aboutMe": "About Me",
+    "workExperience": "Work Experience",
+    "position": "Position",
+    "company": "Company",
+    "date": "Date",
+    "projects": "Projects",
+    "projectName": "Project Name",
+    "education": "Education",
+    "degree": "Degree",
+    "institution": "Institution",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "languages": "Languages",
+    "interests": "Interests"
+  },
+  
+  "professionalDark": {
+    "skills": "Skills",
+    "languages": "Languages",
+    "certifications": "Certifications",
+    "interests": "Interests",
+    "profile": "Profile",
+    "professionalExperience": "Professional Experience",
+    "projects": "Projects",
+    "education": "Education"
+  },
+  
+  "professionalPurple": {
+    "experience": "Professional Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "personalInfo": "Personal Information",
+    "skills": "Skills",
+    "languages": "Languages",
+    "certifications": "Certifications",
+    "interests": "Interests"
+  },
+  
+  "professionalModern": {
+    "personalInfo": "Personal Information",
+    "profile": "Profile",
+    "experience": "Professional Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "skills": "Skills",
+    "languages": "Languages",
+    "certifications": "Certifications",
+    "interests": "Interests"
+  },
+  
+  "executiveResume": {
+    "summary": "EXECUTIVE SUMMARY",
+    "experience": "PROFESSIONAL EXPERIENCE",
+    "education": "EDUCATION",
+    "projects": "KEY PROJECTS",
+    "skills": "CORE COMPETENCIES",
+    "languages": "LANGUAGE PROFICIENCY",
+    "certifications": "CERTIFICATIONS & CREDENTIALS",
+    "interests": "INTERESTS"
+  },
+  
+  "technicalResume": {
+    "summary": "TECHNICAL SUMMARY",
+    "skills": "TECHNICAL SKILLS",
+    "experience": "PROFESSIONAL EXPERIENCE",
+    "projects": "TECHNICAL PROJECTS",
+    "education": "EDUCATION",
+    "certifications": "CERTIFICATIONS",
+    "languages": "LANGUAGES",
+    "interests": "INTERESTS"
+  },
+  
+  "academicResume": {
+    "researchInterests": "RESEARCH INTERESTS",
+    "education": "EDUCATION",
+    "publications": "PUBLICATIONS & RESEARCH",
+    "teachingExperience": "TEACHING & PROFESSIONAL EXPERIENCE",
+    "skills": "SPECIALIZED SKILLS",
+    "certifications": "CERTIFICATIONS & AWARDS",
+    "languages": "LANGUAGES"
+  },
+  
+  "elegantResume": {
+    "profile": "PROFILE",
+    "experience": "PROFESSIONAL EXPERIENCE",
+    "education": "EDUCATION",
+    "projects": "NOTEWORTHY PROJECTS",
+    "skills": "EXPERTISE",
+    "certifications": "CERTIFICATIONS",
+    "languages": "LANGUAGES",
+    "interests": "INTERESTS"
+  },
+  
+  "corporateResume": {
+    "professionalSummary": "PROFESSIONAL SUMMARY",
+    "professionalExperience": "PROFESSIONAL EXPERIENCE",
+    "education": "EDUCATION",
+    "keyCompetencies": "KEY COMPETENCIES",
+    "keyProjects": "KEY PROJECTS",
+    "certifications": "CERTIFICATIONS",
+    "languages": "LANGUAGES",
+    "interests": "INTERESTS"
+  },
+  
+  "coverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to express my interest in the ",
+    "position": "position",
+    "at": " at ",
+    "yourCompany": "your company",
+    "reference": "Reference",
+    "sincerely": "Sincerely,"
+  },
+  
+  "moderncoverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to express my interest in the ",
+    "position": "position",
+    "at": " at ",
+    "yourCompany": "your company",
+    "reference": "Reference",
+    "sincerely": "Sincerely,"
+  },
+  
+  "minimalistcoverLetter": {
+    "coverLetter": "Cover Letter",
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "recipientInformation": "Recipient Information:",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to express my interest in the ",
+    "position": "position",
+    "at": " at ",
+    "yourCompany": "your company",
+    "reference": "Reference",
+    "sincerely": "Sincerely,"
+  },
+  
+  "creativecoverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to express my interest in the ",
+    "position": "position",
+    "at": " at ",
+    "yourCompany": "your company",
+    "reference": "Reference",
+    "sincerely": "Sincerely,"
+  },
+  
+  "executivecoverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "recipientName": "Recipient Name",
+    "recipientTitle": "Recipient Title",
+    "recipientCompany": "Recipient Company",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to express my interest in the ",
+    "position": "position",
+    "positionAppend": " position",
+    "at": " at ",
+    "yourCompany": "your company",
+    "reference": "Reference",
+    "intro2": ". With my extensive background in executive leadership and proven track record, I am confident in my ability to bring exceptional value to your organization.",
+    "sincerely": "Sincerely,"
+  },
+  
+  "technicalcoverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "application": "Application",
+    "position": "position",
+    "reference": "Reference",
+    "recipientName": "Recipient Name",
+    "recipientTitle": "Recipient Title",
+    "recipientCompany": "Recipient Company",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to apply for the position of ",
+    "at": " at ",
+    "yourCompany": "your company",
+    "intro2": ". As a technical professional with specialized expertise, I believe my skills and experience make me an ideal candidate for this role.",
+    "technicalExperience": "Technical Experience",
+    "technicalSkills": "Technical Skills",
+    "whyInterested": "Why I'm Interested",
+    "sincerely": "Sincerely,"
+  },
+  
+  "academiccoverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "academicProfessional": "Academic Professional",
+    "recipientName": "Recipient Name",
+    "recipientTitle": "Recipient Title",
+    "recipientCompany": "Recipient Company",
+    "dearProfessor": "Dear Professor",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to express my interest in the ",
+    "position": "position",
+    "positionAppend": " position",
+    "at": " at ",
+    "yourCompany": "your institution",
+    "reference": "Reference",
+    "intro2": ". With my academic background, research experience, and teaching qualifications, I am confident in my ability to make valuable contributions to your department.",
+    "academicBackground": "ACADEMIC BACKGROUND",
+    "researchAndTeachingCompetencies": "RESEARCH AND TEACHING COMPETENCIES",
+    "interestInYourInstitution": "INTEREST IN YOUR INSTITUTION",
+    "respectfullySubmitted": "Respectfully submitted,"
+  },
+  
+  "corporatecoverLetter": {
+    "yourName": "Your Name",
+    "yourLocation": "Your Location",
+    "yourPhone": "Your Phone",
+    "yourEmail": "Your Email",
+    "professionalApplication": "Professional Application",
+    "corporateCoverLetter": "Corporate Cover Letter",
+    "position": "Position",
+    "positionPlaceholder": "position",
+    "reference": "Reference",
+    "recipientName": "Recipient Name",
+    "recipientTitle": "Recipient Title",
+    "recipientCompany": "Recipient Company",
+    "dear": "Dear",
+    "hiringManager": "Hiring Manager",
+    "intro1": "I am writing to apply for the ",
+    "positionAppend": " position",
+    "at": " at ",
+    "yourCompany": "your company",
+    "intro2": ". With my professional background and skillset specifically aligned with your requirements, I am confident in my ability to make immediate contributions to your organization.",
+    "professionalExperience": "Professional Experience",
+    "coreCompetencies": "Core Competencies",
+    "why": "Why",
+    "sincerely": "Sincerely,",
+    "applicationFor": "Application for"
+  },
+  "card":{
+    "defaultsummary": "Dedicated and versatile professional with a proven track record of delivering high-quality solutions. Adept at leveraging technical expertise and collaborative skills to drive project success and achieve business objectives."
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+

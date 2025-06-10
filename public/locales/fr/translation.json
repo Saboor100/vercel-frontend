@@ -1,0 +1,1284 @@
+{
+  "home": {
+    "readyTitle": "Prêt à créer votre CV professionnel ?",
+    "readyDescription": "Commencez maintenant et créez un CV professionnel en quelques minutes. Notre plateforme alimentée par l'IA vous aidera à vous démarquer.",
+    "createResume": "Créer un CV",
+    "writeCoverLetter": "Rédiger une lettre de motivation",
+    "rights": "Tous droits réservés.",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "contact": "Contact"
+  },
+  "features": {
+    "title": "Obtenez un emploi plus rapidement",
+    "subtitle": "Tout ce dont vous avez besoin pour créer des candidatures remarquables",
+    "description": "Notre plateforme alimentée par l'IA vous aide à créer des CV et des lettres de motivation professionnels qui attirent l'attention des recruteurs et des systèmes de candidature.",
+    "aiPoweredContent": {
+      "name": "Contenu alimenté par l'IA",
+      "description": "Utilisez l'IA pour générer du contenu professionnel pour votre CV et vos lettres de motivation en fonction de votre expérience."
+    },
+    "atsOptimized": {
+      "name": "Optimisé pour ATS",
+      "description": "Nos modèles sont conçus pour passer facilement les systèmes de suivi des candidatures."
+    },
+    "professionalTemplates": {
+      "name": "Modèles professionnels",
+      "description": "Choisissez parmi plusieurs modèles conçus professionnellement pour tous les secteurs ou postes."
+    },
+    "instantGeneration": {
+      "name": "Génération instantanée",
+      "description": "Créez un CV professionnel en quelques minutes, pas en heures, grâce à notre processus simplifié."
+    },
+    "keywordOptimization": {
+      "name": "Optimisation des mots-clés",
+      "description": "Recevez des suggestions de mots-clés spécifiques à votre secteur à inclure dans votre CV."
+    },
+    "exportToPDF": {
+      "name": "Export en PDF",
+      "description": "Téléchargez votre CV ou lettre de motivation terminée sous forme de document PDF professionnel."
+    }
+  },
+  
+  "hero": {
+    "title": "Créez votre CV remarquable facilement",
+    "description": "Créez des CV et lettres de motivation professionnels qui se démarquent",
+    "createResume": "Créer un CV",
+    "writeCoverLetter": "Rédiger une lettre",
+    "resume": {
+      "name": "Jean Dupont",
+      "email": "jean.dupont@gmail.com",
+      "phone": "(555) 123-4567",
+      "location": "Paris, France",
+      "linkedin": "linkedin.com/in/jeandupont",
+      "summary": {
+        "title": "Résumé professionnel",
+        "content": "Professionnel expérimenté en développement web et en ingénierie logicielle..."
+      },
+      "education": {
+        "title": "Éducation",
+        "university": "Nom de l'université",
+        "degree": "Licence en sciences",
+        "details": "Moyenne 3.8, Cours pertinents : Structures de données, Algorithmes"
+      },
+      "experience": {
+        "title": "Expérience professionnelle",
+        "position": "Ingénieur logiciel — Tech Corp",
+        "current": "Actuel",
+        "details": "Création et maintenance d'applications web avec React et Node.js."
+      },
+      "projects": {
+        "title": "Projets",
+        "projectName": "Site de portfolio"
+      },
+      "certifications": {
+        "title": "Certifications",
+        "cert": "Développeur JavaScript certifié – 2023"
+      },
+      "skills": {
+        "title": "Compétences",
+        "item1": "JavaScript, Python, React",
+        "item2": "API REST, MongoDB, Git"
+      },
+      "custom": {
+        "title": "Section personnalisée : Bénévolat",
+        "content": "Organisation de bootcamps de codage pour les étudiants défavorisés."
+      }
+    }
+  },
+  "navbar": {
+    "home": "Accueil",
+    "resume": "Créateur de CV",
+    "coverLetter": "Lettre de motivation",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "settings": "Paramètres du compte",
+    "logout": "Se déconnecter",
+    "logoutSuccess": "Déconnexion réussie",
+    "logoutError": "Échec de la déconnexion. Veuillez réessayer."
+  },
+  "userSettings": {
+    "accountSettings": "Paramètres du compte",
+    "manageAccount": "Gérez les détails de votre compte et votre abonnement.",
+    "subscription": "Abonnement",
+    "manageSubscription": "Gérez votre forfait d'abonnement et votre facturation.",
+    "currentPlan": "Forfait actuel",
+    "plan": "Forfait",
+    "noActiveSubscription": "Aucun abonnement actif",
+    "basicPlanDesc": "Forfait de base avec des fonctionnalités limitées.",
+    "proPlanDesc": "Forfait Pro avec accès complet et avantages.",
+    "freePlanDesc": "Forfait gratuit avec accès limité.",
+    "cancelSubscription": "Annuler l'abonnement",
+    "subscribeNow": "S'abonner maintenant",
+    "dangerZone": "Zone dangereuse",
+    "deleteAccountPermanent": "Supprimez définitivement votre compte et vos données.",
+    "deleteAccount": "Supprimer le compte",
+    "unsubscribeSuccess": "Abonnement annulé",
+    "unsubscribeDescription": "Vous avez annulé votre abonnement avec succès.",
+    "unsubscribeFail": "Échec de l'annulation de l'abonnement",
+    "unsubscribeFailDescription": "Une erreur est survenue lors de l'annulation. Veuillez réessayer.",
+    "error": "Erreur",
+    "tryAgain": "Veuillez réessayer plus tard.",
+    "unsubscribeConfirm": "Êtes-vous sûr de vouloir annuler votre abonnement ? Cette action est irréversible.",
+    "unsubscribeLossIntro": "Vous perdrez l'accès aux fonctionnalités suivantes :",
+    "unsubscribeAiEnhancements": "Modèles et fonctionnalités améliorés par IA",
+    "unsubscribePremiumTemplates": "Modèles premium",
+    "unsubscribeAdvancedFormatting": "Options de mise en forme avancées",
+    "unsubscribeLinkedin": "Exports de CV LinkedIn",
+    "processing": "Traitement...",
+    "accountDeleted": "Compte supprimé",
+    "accountDeletedDesc": "Votre compte a été définitivement supprimé.",
+    "deletionFailed": "Échec de la suppression du compte",
+    "deletionFailedDesc": "Une erreur est survenue lors de la suppression du compte.",
+    "confirmAccountDeletion": "Confirmer la suppression du compte",
+    "deleteAccountConfirm": "Êtes-vous absolument sûr de vouloir supprimer votre compte ? Cette action est irréversible.",
+    "deleteAccountWarning": "Cette action supprimera définitivement votre compte et toutes les données associées.",
+    "cancel": "Annuler",
+    "deleting": "Suppression en cours..."
+  },
+  "locale": "fr-FR",
+  "errors": {
+    "loadPlans": "Impossible de charger les plans d'abonnement",
+    "loginToSubscribe": "Veuillez vous connecter pour vous abonner",
+    "checkoutSession": "Impossible de créer la session de paiement",
+    "subscriptionFailed": "Échec du démarrage du processus d'abonnement {{plan}}",
+    "unableToLoadPlans": "Impossible de charger les plans d'abonnement"
+  },
+  "plans": {
+    "basic": {
+      "title": "Forfait Basique",
+      "description": "Pour les besoins simples de CV et lettre de motivation",
+      "paymentType": "paiement unique",
+      "features": {
+        "templates": "Accès à tous les modèles basiques",
+        "downloads": "Téléchargements PDF et Word",
+        "storage": "Stockage illimité de documents"
+      }
+    },
+    "pro": {
+      "recommended": "RECOMMANDÉ",
+      "title": "Forfait Pro",
+      "description": "Pour les professionnels et les chercheurs d'emploi",
+      "paymentType": "paiement unique",
+      "features": {
+        "basic": "Toutes les fonctionnalités du forfait basique",
+        "premiumTemplates": "Accès aux modèles premium",
+        "aiResume": "Amélioration de CV par IA",
+        "aiCoverLetter": "Amélioration de lettre de motivation par IA",
+        "linkedin": "Optimisation du profil LinkedIn"
+      }
+    }
+  },
+  "buttons": {
+    "processing": "Traitement...",
+    "currentPlan": "Forfait actuel",
+    "subscribeNow": "S'abonner maintenant"
+  },
+  "plansPage": {
+    "title": "Choisissez votre forfait",
+    "subtitle": "Sélectionnez le forfait qui correspond le mieux à vos besoins et objectifs de carrière",
+    "notLoggedInTitle": "Non connecté",
+    "notLoggedInDescription": "Veuillez vous connecter ou créer un compte pour acheter un abonnement",
+    "footerNote": "Tous les forfaits sont des paiements uniques qui donnent un accès permanent aux fonctionnalités. Besoin d'aide pour choisir ? Contactez notre équipe d'assistance pour des conseils."
+  },
+  
+  "resume": {
+    "n1": "Préparation du paiement...",
+    "n2": "Erreur d'abonnement",
+    "n3": "Une erreur s'est produite lors du lancement du paiement.",
+    "n4": "Erreur lors de la création du paiement",
+    "n5": "Veuillez réessayer plus tard.",
+    "n6": "CV créé avec succès !",
+    "n7": "Échec de l'enregistrement du CV",
+    "n8": "Une erreur inattendue s'est produite.",
+    "n9": "Vous devez être connecté pour enregistrer votre CV.",
+    "n10": "Créateur de CV",
+    "n11": "Contenu du CV",
+    "n12": "Modèle",
+    "n13": "Aperçu",
+    "n14": "Abonnez-vous pour accéder",
+    "n15": "Passez à un plan supérieur pour accéder à l'assistant IA.",
+    "n16": "Passez à un plan supérieur pour télécharger votre CV.",
+    "n17": "Forfait Basique",
+    "n18": "Génération illimitée de CV",
+    "n19": "Téléchargement au format PDF",
+    "n20": "Accès à l'assistant IA",
+    "n21": "Abonné",
+    "n22": "Abonnez-vous de base",
+    "n23": "Meilleure valeur",
+    "n24": "Forfait Pro",
+    "n25": "Support prioritaire",
+    "n26": "Versions multiples du CV",
+    "n27": "Modèles avancés",
+    "n28": "Accès à l'assistant IA",
+    "n29": "Abonnez-vous Pro",
+    "n30": "Annuler"
+  },
+  "countrycard": {
+    "title": "Sélection du pays",
+    "description": "Sélectionnez votre pays pour formater votre CV en conséquence",
+    "select": "Sélectionner un pays",
+    "selectplaceholder": "Choisissez un pays...",
+    "countryspecific": "Exigences pour",
+    "photorecommendation": "Photo requise",
+    "photorecommendationDesc": "Photo recommandée mais non obligatoire",
+    "phoneFormat": "Format de téléphone",
+    "dateFormat": "Format de date",
+    "addressFormat": "Format d'adresse"
+  },
+  "information": {
+    "title": "Informations personnelles",
+    "description": "Entrez vos informations personnelles",
+    "photo": "PH",
+    "requiredPhoto": "Photo obligatoire*",
+    "profilePhoto": "Photo de profil",
+    "upload": "Télécharger",
+    "update": "Mettre à jour",
+    "remove": "Supprimer",
+    "photoRequiredTitle": "Photo obligatoire",
+    "photoRequiredDesc": "Une photo est obligatoire pour les CV",
+    "photoError": "Veuillez télécharger une photo",
+    "photoRequiredText": "Une photo professionnelle est requise pour les CV ",
+    "photoRecommendedText": "Une photo professionnelle est recommandée pour les CV ",
+    "fullName": "Nom complet",
+    "namePlaceholder": "Jean Dupont",
+    "email": "Email",
+    "emailPlaceholder": "jean.dupont@exemple.com",
+    "emailError": "Veuillez entrer un email valide",
+    "phone": "Téléphone",
+    "phoneError": "Le numéro de téléphone doit correspondre au format",
+    "location": "Adresse",
+    "linkedin": "LinkedIn",
+    "linkedinPlaceholder": "https://linkedin.com/in/utilisateur",
+    "invalidEmailTitle": "Email invalide",
+    "invalidEmailDesc": "Veuillez entrer un email valide",
+    "invalidPhoneTitle": "Numéro de téléphone invalide"
+  },
+  "summary": {
+    "title": "Résumé professionnel",
+    "description": "Rédigez un bref résumé sur vous-même",
+    "brief":"Rédigez un bref résumé de 2 à 3 phrases mettant en évidence vos principales qualifications et vos objectifs de carrière...",
+    "detailed":"Rédigez un résumé complet (4 à 6 phrases) couvrant votre parcours professionnel, vos principales réalisations et vos objectifs de carrière...",
+    "bullet":"Rédigez votre résumé sous forme de puces mettant en évidence vos principales qualifications, compétences et objectifs..."
+
+  },
+  "education": {
+    "title": "Formation",
+    "description": "Ajoutez votre parcours éducatif",
+    "addButton": "Ajouter ",
+    "institution": "Établissement",
+    "institutionPlaceholder": "Université de...",
+    "degree": "Diplôme",
+    "degreePlaceholder": "Licence en...",
+    "date": "Date",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Détails sur votre formation...",
+    "emptyMessage": "Aucune formation ajoutée",
+    "addFirstButton": "Ajouter "
+  },
+  "experience": {
+    "title": "Expérience professionnelle",
+    "description": "Ajoutez votre expérience professionnelle",
+    "addButton": "Ajouter ",
+    "company": "Entreprise",
+    "companyPlaceholder": "Nom de l'entreprise",
+    "position": "Poste",
+    "positionPlaceholder": "Votre poste",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "current": "Actuel",
+    "setCurrent": "Définir le présent",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Vos responsabilités et réalisations...",
+    "emptyMessage": "Aucune expérience ajoutée",
+    "addFirstButton": "Ajouter "
+  },
+  "skills": {
+    "title": "Compétences",
+    "description": "Ajoutez vos compétences professionnelles",
+    "addButton": "Ajouter ",
+    "category": "Catégorie",
+    "categoryPlaceholder": "Sélectionnez une catégorie",
+    "skillsLabel": "Compétences",
+    "skillsPlaceholder": "Listez vos compétences (séparées par des virgules)",
+    "emptyMessage": "Aucune compétence ajoutée",
+    "addFirstButton": "Ajouter "
+  },
+  "projects": {
+    "title": "Projets",
+    "description": "Ajoutez vos projets notables",
+    "addButton": "Ajouter ",
+    "name": "Nom du projet",
+    "namePlaceholder": "Titre du projet",
+    "technologies": "Technologies",
+    "technologiesPlaceholder": "Technologies utilisées",
+    "date": "Date",
+    "linkLabel": "Lien",
+    "linkPlaceholder": "URL du projet",
+    "descriptionLabel": "Description",
+    "descriptionPlaceholder": "Détails du projet...",
+    "emptyMessage": "Aucun projet ajouté",
+    "addFirstButton": "Ajouter "
+  },
+  "certifications": {
+    "title": "Certifications",
+    "description": "Ajoutez vos certifications professionnelles",
+    "addButton": "Ajouter ",
+    "titleLabel": "Titre de certification",
+    "titlePlaceholder": "Nom de la certification",
+    "issuer": "Organisme",
+    "issuerPlaceholder": "Organisme certificateur",
+    "dateEarned": "Date d'obtention",
+    "emptyMessage": "Aucune certification ajoutée",
+    "addFirstButton": "Ajouter "
+  },
+  "customSections": {
+    "title": "Sections supplémentaires",
+    "description": "Ajoutez des sections personnalisées à votre CV",
+    "addButton": "Ajouter ",
+    "suggestionsTitle": "Sections courantes",
+    "sectionTitle": "Titre de section",
+    "titlePlaceholder": "Langues, Bénévolat, etc.",
+    "content": "Contenu",
+    "contentPlaceholder": "Détails de la section...",
+    "emptyMessage": "Aucune section personnalisée ajoutée",
+    "addFirstButton": "Ajouter "
+  },
+  "generate": {
+    "generating": "Génération en cours...",
+    "button": "Générer le CV"
+  },
+
+  "toasts": {
+    "resumeGenerated": "CV généré",
+    "resumeCreated": "Votre CV a été créé avec succès !",
+    "generationFailed": "Échec de la génération",
+    "generationError": "Une erreur s'est produite lors de la génération de votre CV. Veuillez réessayer.",
+    "description":"Veuillez remplir les champs obligatoires suivants pour"
+
+  },
+
+  "chooseTemplate": "Choisissez un modèle",
+  "browseMoreTemplates": "Parcourir plus de modèles",
+  "showBasicTemplates": "Afficher les modèles de base",
+  "proTemplateTitle": "Modèle Pro",
+  "proTemplateDesc": "Passez à un abonnement Pro pour accéder aux modèles premium",
+  "premiumTemplatesTitle": "Modèles Premium",
+  "premiumTemplatesDesc": "Découvrez nos modèles premium disponibles avec un abonnement Pro",
+  "templateNames": {
+    "professional": "Professionnel",
+    "modern": "Moderne",
+    "minimalist": "Minimaliste",
+    "creative": "Créatif",
+    "professionalDark": "Professionnel Sombre",
+    "professionalPurple": "Professionnel Violet",
+    "professionalModern": "Professionnel Moderne",
+    "executive": "Exécutif",
+    "technical": "Technique",
+    "academic": "Académique",
+    "elegant": "Élégant",
+    "corporate": "Entreprise"
+  },
+  "templateDescriptions": {
+    "professional": "Conception propre et traditionnelle adaptée à la plupart des secteurs",
+    "modern": "Mise en page contemporaine avec un look frais et mis à jour",
+    "minimalist": "Conception simple et élégante avec beaucoup d’espace blanc",
+    "creative": "Design distinctif pour les domaines créatifs",
+    "professionalDark": "Barre latérale sombre avec mise en page professionnelle",
+    "professionalPurple": "CV professionnel à thème violet élégant",
+    "professionalModern": "Design professionnel moderne avec en-tête audacieux",
+    "executive": "Conception sophistiquée pour les cadres supérieurs",
+    "technical": "Optimisé pour les rôles techniques avec un accent sur les compétences",
+    "academic": "Parfait pour les postes académiques et de recherche",
+    "elegant": "Design raffiné avec une typographie sophistiquée",
+    "corporate": "Modèle professionnel pour les environnements d'entreprise"
+  },
+  
+  "ats": {
+    "panelTitle": "Optimisation ATS",
+    "panelDescription": "Collez une description de poste pour analyser la correspondance avec votre CV",
+    "textareaPlaceholder": "Collez la description de poste ici...",
+    "analyzeButton": "Analyser le CV",
+    "loading": "Analyse en cours...",
+    "jobDescriptionRequired": "Description de poste requise",
+    "pasteJobDescriptionWarning": "Veuillez coller une description de poste à analyser.",
+    "analysisComplete": "Analyse terminée",
+    "analysisDescription": "Votre CV a été analysé par rapport à la description de poste.",
+    "analysisFailed": "Échec de l'analyse",
+    "analysisError": "Impossible de terminer l'analyse ATS",
+    "error": "Erreur",
+    "unexpectedError": "Une erreur inattendue s'est produite pendant l'analyse",
+    "resultsTitle": "Résultats de l'analyse ATS",
+    "atsScore": "Score ATS",
+    "keywordsAnalysis": "Analyse des mots-clés",
+    "missingSkills": "Compétences manquantes",
+    "noCriticalSkills": "Aucune compétence critique manquante !",
+    "formatImprovements": "Améliorations du format",
+    "contentSuggestions": "Suggestions de contenu",
+    "proTipTitle": "Conseil",
+    "proTipDesc": "Personnalisez votre CV pour chaque candidature en fonction de ces informations pour de meilleurs résultats."
+  },
+  "preview":{
+    "editbutton":"Mode édition",
+    "viewbutton":"Mode d'affichage",
+    "viewbuttondesc":"Cliquez sur le texte pour le modifier directement",
+    "pdfbutton":"Télécharger le PDF",
+    "fullscreenbutton":"Plein écran",
+    "previewtext": "Aperçu"
+  },
+  "resumeToolbar":{
+    "enhanceButton": "Amélioration par IA",
+    "linkedinButton": "Optimisation LinkedIn",
+    "proLabel": "PRO",
+    "linkedInRequiresPro": "L'optimisation LinkedIn nécessite un abonnement Pro",
+    "linkedInSuccess": "Conseils d'optimisation LinkedIn générés",
+    "linkedInFail": "Échec de la génération des conseils LinkedIn",
+    "linkedInError": "Une erreur est survenue lors de la génération des conseils LinkedIn",
+    "enhanceRequiresPro": "L'amélioration par IA nécessite un abonnement Pro",
+    "enhanceSuccess": "CV amélioré avec l'IA",
+    "enhanceFail": "Échec de l'amélioration du CV par l'IA",
+    "enhanceError": "Une erreur est survenue lors de l'amélioration par IA",
+    "linkedInAlertTitle": "Conseils pour l'optimisation LinkedIn"
+  },
+  
+
+  "coverLetterform": {
+    "targetCountry": {
+      "title": "Pays cible",
+      "description": "Sélectionnez le pays où vous postulez. Cela personnalisera le format et le ton de votre lettre de motivation.",
+      "countryLabel": "Pays",
+      "placeholder": "Sélectionnez le pays cible",
+      "infoButton": "Infos pays",
+      "culturalNotes": "Notes culturelles",
+      "maxLength": "Longueur max",
+      "tone": "Ton",
+      "phoneFormat": "Format téléphone"
+    },
+    "personalInfo": {
+      "title": "Informations personnelles",
+      "description": "Vos coordonnées formatées",
+      "fullName": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation",
+      "placeholder": {
+        "name": "Votre nom complet",
+        "email": "votre.email@exemple.com",
+        "location": "Ville, Région"
+      }
+    },
+    "recipientInfo": {
+      "title": "Informations sur le destinataire",
+      "description": "Détails sur la personne ou l'entreprise à qui vous écrivez",
+      "name": "Nom du destinataire",
+      "titleLabel": "Titre du destinataire",
+      "company": "Entreprise",
+      "placeholder": {
+        "name": "Responsable du recrutement",
+        "title": "Responsable RH",
+        "company": "Nom de l'entreprise"
+      }
+    },
+    "jobInfo": {
+      "title": "Informations sur le poste",
+      "description": "Détails sur le poste pour lequel vous postulez",
+      "titleLabel": "Intitulé du poste",
+      "reference": "Référence du poste",
+      "placeholder": {
+        "title": "Intitulé du poste",
+        "reference": "Numéro de référence"
+      }
+    },
+    "greetingClosing": {
+      "title": "Salutation & Formule de politesse",
+      "description": "Salutations appropriées  ",
+      "salutation": "Salutation",
+      "closing": "Formule de politesse",
+      "placeholder": {
+        "salutation": "Choisir une salutation",
+        "closing": "Choisir une formule"
+      }
+    },
+    "content": {
+      "title": "Contenu de la lettre de motivation",
+      "description": "Contenu optimisé",
+      "experience": "Expérience",
+      "skills": "Compétences",
+      "motivation": "Motivation",
+      "closing": "Conclusion",
+      "autoGenerate": "Seront générés automatiquement si laissés vides, optimisés"
+    },
+    "generateButton": {
+      "generating": "Génération en cours...",
+      "default": "Générer une lettre"
+    }
+
+},
+  
+  "coverLetterToolbar": {
+    "aiEnhancement": "Amélioration IA",
+    "linkedInOptimization": "Optimisation LinkedIn",
+    "proTag": "PRO",
+    "linkedInProError": "L'optimisation LinkedIn nécessite un abonnement Pro",
+    "linkedInSuccess": "Conseils d'optimisation LinkedIn générés",
+    "linkedInFail": "Échec de la génération des conseils LinkedIn",
+    "linkedInError": "Une erreur s'est produite lors de la génération des conseils LinkedIn",
+    "aiProError": "L'amélioration IA nécessite un abonnement Pro",
+    "aiSuccess": "Lettre de motivation améliorée par l'IA",
+    "aiFail": "Échec de l'amélioration de la lettre de motivation",
+    "aiError": "Une erreur s'est produite lors de l'amélioration par l'IA",
+    "linkedInTipsTitle": "Conseils d'optimisation LinkedIn"
+  },
+  
+  "login": {
+    "successTitle": "Connexion réussie",
+    "successDesc": "Bon retour !",
+    "fail": "Échec de la connexion",
+    "googleFail": "Échec de la connexion avec Google",
+    "unexpectedError": "Une erreur inattendue s'est produite",
+    "title": "Connectez-vous à votre compte",
+    "subtitle": "Entrez votre e-mail et mot de passe pour vous connecter",
+    "email": "Email",
+    "emailPlaceholder": "nom@exemple.com",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "••••••••",
+    "forgot": "Mot de passe oublié ?",
+    "loggingIn": "Connexion en cours...",
+    "loginWithEmail": "Connexion avec l'e-mail",
+    "or": "ou",
+    "googleSigning": "Connexion en cours...",
+    "googleSignIn": "Se connecter avec Google",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signup": "S'inscrire"
+  },
+  
+  "register": {
+    "title": "Créer un compte",
+    "description": "Entrez votre e-mail et créez un mot de passe pour vous inscrire",
+    "emailLabel": "Email",
+    "emailPlaceholder": "nom@example.com",
+    "passwordLabel": "Mot de passe",
+    "passwordPlaceholder": "••••••••",
+    "confirmPasswordLabel": "Confirmer le mot de passe",
+    "confirmPasswordPlaceholder": "••••••••",
+    "registerBtn": "S'inscrire avec l'e-mail",
+    "creating": "Création du compte...",
+    "or": "ou",
+    "googleBtn": "S'inscrire avec Google",
+    "signingUp": "Inscription...",
+    "alreadyAccount": "Vous avez déjà un compte ?",
+    "signIn": "Se connecter",
+    "passwordsNoMatch": "Les mots de passe ne correspondent pas",
+    "passwordTooShort": "Le mot de passe doit comporter au moins 6 caractères",
+    "successTitle": "Inscription réussie",
+    "successDescription": "Votre compte a été créé",
+    "googleSuccessTitle": "Compte créé",
+    "googleSuccessDescription": "Votre compte a été créé avec Google",
+    "failed": "Échec de l'inscription",
+    "googleFailed": "Échec de l'inscription avec Google",
+    "unexpectedError": "Une erreur inattendue s'est produite"
+  },
+  
+  "terms": {
+    "backToHome": "Retour à l'accueil",
+    "title": "Conditions d'utilisation",
+    "introduction": {
+      "title": "1. Introduction",
+      "content": "Bienvenue sur FLACRONCV. En accédant à notre service, vous acceptez d'être lié par ces conditions d'utilisation. Si vous n'êtes pas d'accord avec une partie des conditions, vous ne pouvez pas accéder au service."
+    },
+    "license": {
+      "title": "2. Licence d'utilisation",
+      "content": "L'autorisation est accordée de télécharger temporairement une copie des documents du site Web de FLACRONCV pour un visionnage personnel et transitoire à des fins non commerciales. Ceci constitue une licence et non un transfert de titre. Sous cette licence, vous ne pouvez pas :",
+      "list": {
+        "1": "Modifier ou copier les documents ;",
+        "2": "Utiliser les documents à des fins commerciales ou de présentation publique ;",
+        "3": "Tenter de rétroconcevoir tout logiciel sur le site Web de FLACRONCV ;",
+        "4": "Supprimer les mentions de droits d'auteur ou autres mentions de propriété ;",
+        "5": "Transférer les documents à une autre personne ou les « refléter » sur un autre serveur."
+      }
+    },
+    "disclaimer": {
+      "title": "3. Clause de non-responsabilité",
+      "content": "Les documents sur le site Web de FLACRONCV sont fournis \"tels quels\". FLACRONCV ne donne aucune garantie, expresse ou implicite, et décline toutes les autres garanties."
+    },
+    "limitations": {
+      "title": "4. Limitations",
+      "content": "FLACRONCV ou ses fournisseurs ne peuvent être tenus responsables de tout dommage résultant de l'utilisation ou de l'incapacité à utiliser les documents de son site Web."
+    },
+    "subscriptions": {
+      "title": "5. Abonnements et paiements",
+      "content": "Certaines fonctionnalités de FLACRONCV nécessitent un abonnement. Vous acceptez de payer tous les frais facturés à votre compte selon les conditions de tarification au moment de l'abonnement."
+    },
+    "privacy": {
+      "title": "6. Politique de confidentialité",
+      "content": "Votre utilisation de FLACRONCV est également régie par notre politique de confidentialité, disponible",
+      "link": "ici"
+    },
+    "governingLaw": {
+      "title": "7. Loi applicable",
+      "content": "Ces conditions sont régies et interprétées conformément aux lois applicables dans votre juridiction."
+    },
+    "changes": {
+      "title": "8. Modifications des conditions",
+      "content": "FLACRONCV se réserve le droit de modifier ou remplacer ces conditions à tout moment. Nous fournirons un préavis d'au moins 30 jours pour toute modification importante."
+    }
+  },
+  
+  "privacy": {
+    "backToHome": "Retour à l'accueil",
+    "title": "Politique de confidentialité",
+    "intro": {
+      "title": "1. Introduction",
+      "text": "Chez FLACRONCV, nous prenons votre vie privée au sérieux. Cette politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous visitez notre site web ou utilisez nos services de création de CV et de lettre de motivation."
+    },
+    "info": {
+      "title": "2. Informations que nous collectons",
+      "text": "Nous pouvons collecter des informations vous concernant de différentes manières, notamment :",
+      "personal": {
+        "title": "2.1 Données personnelles",
+        "text": "Lorsque vous créez un compte ou utilisez nos services, nous pouvons collecter des informations personnelles identifiables telles que :",
+        "items": {
+          "name": "Nom",
+          "email": "Adresse e-mail",
+          "phone": "Numéro de téléphone",
+          "resume": "Contenu du CV et de la lettre de motivation",
+          "payment": "Informations de paiement",
+          "photo": "Photo de profil (si téléchargée)"
+        }
+      },
+      "usage": {
+        "title": "2.2 Données d'utilisation",
+        "text": "Nous pouvons également collecter des informations sur la façon dont le service est utilisé. Ces données peuvent inclure :",
+        "items": {
+          "ip": "Adresse IP de votre ordinateur",
+          "browserType": "Type de navigateur",
+          "browserVersion": "Version du navigateur",
+          "pagesVisited": "Pages de notre service que vous visitez",
+          "visitTime": "Date et heure de votre visite",
+          "timeSpent": "Temps passé sur ces pages",
+          "diagnostics": "Autres données de diagnostic"
+        }
+      }
+    },
+    "usage": {
+      "title": "3. Comment nous utilisons vos informations",
+      "text": "Nous pouvons utiliser les informations que nous collectons à votre sujet pour :",
+      "items": {
+        "service": "Fournir, maintenir et améliorer nos services",
+        "payments": "Traiter votre abonnement et vos paiements",
+        "notices": "Vous envoyer des notifications techniques et des messages d'assistance",
+        "feedback": "Répondre à vos commentaires et questions",
+        "development": "Développer de nouveaux produits et services",
+        "monitoring": "Surveiller l'utilisation de nos services",
+        "fraud": "Détecter, enquêter et prévenir les fraudes et autres activités illégales"
+      }
+    },
+    "sharing": {
+      "title": "4. Partage de vos informations",
+      "text": "Nous ne vendons ni ne transférons vos informations personnelles identifiables à des tiers, sauf dans les cas suivants :",
+      "items": {
+        "providers": "Avec des prestataires de services qui travaillent pour nous",
+        "legal": "Pour se conformer à des obligations légales",
+        "defense": "Pour protéger nos droits et nos biens",
+        "consent": "Avec votre consentement ou à votre demande"
+      }
+    },
+    "security": {
+      "title": "5. Sécurité des données",
+      "text": "Nous mettons en place des mesures techniques et organisationnelles appropriées pour protéger vos données personnelles. Toutefois, aucun mode de transmission sur Internet ou de stockage électronique n'est entièrement sécurisé."
+    },
+    "rights": {
+      "title": "6. Vos droits en matière de protection des données",
+      "text": "Selon votre localisation, vous pouvez bénéficier de certains droits concernant vos données personnelles, tels que :",
+      "items": {
+        "access": "Le droit d'accéder à vos données personnelles",
+        "rectify": "Le droit de rectifier des données personnelles inexactes",
+        "erase": "Le droit à l'effacement de vos données personnelles",
+        "restrict": "Le droit de restreindre le traitement de vos données",
+        "portability": "Le droit à la portabilité des données",
+        "object": "Le droit de vous opposer au traitement de vos données"
+      }
+    },
+    "contact": {
+      "title": "7. Contactez-nous",
+      "text": "Si vous avez des questions concernant cette politique de confidentialité, veuillez",
+      "link": "nous contacter"
+    }
+  },
+  
+  "contactbuttons": {
+    "backToHome": "Retour à l'accueil",
+    "sending": "Envoi en cours...",
+    "sendMessage": "Envoyer le message"
+  },
+  "titles": {
+    "contactUs": "Contactez-nous"
+  },
+  "contactPage": {
+    "description": "Des questions ou des commentaires ? Nous serions ravis de vous entendre.",
+    "getInTouch": "Prendre contact",
+    "emailTitle": "Email",
+    "emailResponseTime": "Nous répondrons sous 24 heures",
+    "liveChatTitle": "Chat en direct",
+    "liveChatAvailability": "Disponible du lundi au vendredi",
+    "liveChatHours": "9h00 - 18h00 EST"
+  },
+  "form": {
+    "name": "Nom",
+    "namePlaceholder": "Votre nom",
+    "email": "Email",
+    "emailPlaceholder": "votre.email@exemple.com",
+    "subject": "Sujet",
+    "subjectPlaceholder": "De quoi s'agit-il ?",
+    "message": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "nameError": "Le nom doit contenir au moins 2 caractères.",
+    "emailError": "Veuillez entrer une adresse email valide.",
+    "subjectError": "Le sujet doit contenir au moins 5 caractères.",
+    "messageError": "Le message doit contenir au moins 10 caractères."
+  },
+  "toast": {
+    "successTitle": "Message envoyé avec succès !",
+    "successDescription": "Nous vous répondrons sous peu.",
+    "errorTitle": "Échec de l'envoi du message",
+    "errorDescription": "Veuillez réessayer plus tard."
+  },
+  "contacterrors": {
+    "userNotFound": "Utilisateur non trouvé"
+  },
+
+  "coverLetterPage": {
+    "title": "FLACRONCV Générateur de lettre de motivation",
+    "tabs": {
+      "content": "Contenu de la lettre de motivation",
+      "template": "Choisir un modèle"
+    },
+    "preview": "Aperçu",
+    "subscribeDialog": {
+      "title": "Abonnez-vous pour utiliser les fonctionnalités premium",
+      "description": {
+        "ai": "L'amélioration par IA nécessite un abonnement.",
+        "download": "Le téléchargement de documents PDF nécessite un abonnement."
+      },
+      "plans": {
+        "basic": {
+          "name": "Forfait Basique",
+          "features": [
+            "Téléchargements PDF",
+            "Modèles basiques",
+            "Améliorations par IA (non inclus)"
+          ],
+          "choose": "Choisir Basique",
+          "currentPlan": "Forfait actuel"
+        },
+        "pro": {
+          "name": "Forfait Pro",
+          "bestValue": "Meilleur choix",
+          "features": [
+            "Téléchargements PDF",
+            "Tous les modèles premium",
+            "Améliorations par IA pour CV",
+            "Optimisation LinkedIn",
+            "Support prioritaire"
+          ],
+          "choose": "Choisir Pro",
+          "currentPlan": "Forfait actuel"
+        }
+      },
+      "loading": "Chargement...",
+      "cancel": "Annuler",
+      "checkoutError": {
+        "title": "Erreur de paiement",
+        "message": "Impossible de créer la session de paiement."
+      },
+      "checkoutFailed": {
+        "title": "Échec du paiement",
+        "message": "Échec du démarrage du processus de paiement. Veuillez réessayer."
+      }
+    },
+    "downloadRequest": "Téléchargement PDF",
+    "aiFeatureRequest": "Amélioration IA"
+  },
+  
+  "coverLetterBuilder": {
+    "title": "Créateur de lettre de motivation FLACRONCV"
+  },
+  "tabs": {
+    "content": "Contenu de la lettre",
+    "template": "Choisir un modèle"
+  },
+  "previews": {
+    "title": "Aperçu"
+  },
+  "dialog": {
+    "title": "Abonnez-vous pour utiliser les fonctionnalités premium",
+    "description": {
+      "ai": "L'amélioration par IA nécessite un abonnement.",
+      "download": "Le téléchargement de PDF nécessite un abonnement."
+    },
+    "cancel": "Annuler"
+  },
+  "coverplans": {
+    "current": "Plan actuel",
+    "basic": {
+      "title": "Plan de base",
+      "features": {
+        "pdf": "Téléchargements PDF",
+        "templates": "Modèles de base",
+        "ai": "Améliorations par IA"
+      },
+      "button": "Choisir le plan de base"
+    },
+    "pro": {
+      "title": "Plan Pro",
+      "badge": "Meilleure valeur",
+      "features": {
+        "pdf": "Téléchargements PDF",
+        "templates": "Tous les modèles premium",
+        "ai": "Améliorations de CV par IA",
+        "linkedin": "Optimisation LinkedIn",
+        "support": "Support prioritaire"
+      },
+      "button": "Choisir le plan Pro"
+    }
+  },
+  
+  "payment_cancelled": {
+    "title": "Paiement annulé",
+    "description": "Votre paiement a été annulé. Aucun montant n'a été prélevé sur votre compte.",
+    "back_to_home": "Retour à l'accueil",
+    "continue_without_subscribing": "Continuer sans abonnement"
+  },
+  
+  "payment_success": {
+    "loading_title": "Vérification de votre paiement...",
+    "loading_description": "Veuillez patienter pendant que nous confirmons votre abonnement.",
+    "success_title": "Paiement réussi !",
+    "plan_message": "Vous êtes maintenant abonné au plan {{plan}}.",
+    "thank_you": "Merci pour votre achat. Vous avez maintenant un accès complet à toutes les fonctionnalités premium.",
+    "back_to_home": "Retour à l'accueil",
+    "continue": "Continuer vers le créateur de CV",
+    "toast": {
+      "success_title": "Paiement réussi",
+      "success_description": "Vous vous êtes abonné avec succès au plan {{plan}}.",
+      "failed_title": "Échec de la vérification du paiement",
+      "failed_description": "Nous n'avons pas pu vérifier votre paiement. Veuillez contacter le support.",
+      "error_title": "Erreur de vérification",
+      "error_description": "Une erreur s'est produite lors de la vérification de votre paiement.",
+      "missing_session": "Informations de session manquantes"
+    }
+  },
+  
+  "aiService": {
+    "generateContent": {
+      "generating": "Génération de contenu avec OpenAI...",
+      "error": "Échec de la génération de contenu IA : {{message}}",
+      "throwError": "Échec de la génération de contenu IA"
+    },
+    "enhanceResume": {
+      "error": "Échec de l'amélioration du CV : {{message}}"
+    },
+    "enhanceCoverLetter": {
+      "error": "Échec de l'amélioration de la lettre de motivation : {{message}}"
+    }
+  },
+  
+  "error": {
+    "enhancingResume": "Erreur lors de l'amélioration du CV avec OpenAI :",
+    "enhancingCoverLetter": "Erreur lors de l'amélioration de la lettre de motivation avec OpenAI :"
+  },
+  
+  "log": {
+    "generatingResume": "Génération du CV avec les données :",
+    "generatingCoverLetter": "Génération de la lettre de motivation avec les données :",
+    "savingResume": "Enregistrement du CV pour l'utilisateur :",
+    "savingCoverLetter": "Enregistrement de la lettre de motivation pour l'utilisateur :"
+  },
+  "apierror": {
+    "generatingResume": "Erreur lors de la génération du CV :",
+    "generatingCoverLetter": "Erreur lors de la génération de la lettre de motivation :",
+    "savingResume": "Erreur lors de l'enregistrement du CV :",
+    "savingCoverLetter": "Erreur lors de l'enregistrement de la lettre de motivation :",
+    "unknown": "Une erreur inconnue s'est produite"
+  },
+  "defaults": {
+    "resumeSummary": "Professionnel polyvalent et dévoué avec un solide historique de livraison de solutions de haute qualité. Expert dans l'exploitation des compétences techniques et collaboratives pour assurer le succès des projets et atteindre les objectifs commerciaux.",
+    "technicalSkillsCategory": "Compétences techniques",
+    "technicalSkillsList": "JavaScript, React, Node.js, HTML/CSS, Git, APIs REST",
+    "softSkillsCategory": "Compétences interpersonnelles",
+    "softSkillsList": "Communication, Résolution de problèmes, Travail en équipe, Gestion du temps",
+    "coverLetterExperience": "Je possède plus de 5 ans d'expérience dans le développement d'applications web et de solutions logicielles offrant une expérience utilisateur exceptionnelle. Dans mon poste actuel chez XYZ Company, j'ai dirigé le développement d’un portail client qui a augmenté l'engagement des utilisateurs de 45 % et réduit les tickets de support de 30 %.",
+    "coverLetterSkills": "Mes compétences techniques incluent la maîtrise de JavaScript, React, Node.js et de l'infrastructure cloud AWS. J'excelle dans la création d'applications évolutives et la mise en œuvre de pipelines CI/CD pour garantir des flux de travail de développement efficaces.",
+    "coverLetterMotivation": "Je suis particulièrement enthousiaste à l'idée de rejoindre {{company}} en raison de votre engagement envers l'innovation et la réussite client. Le poste de {{position}} correspond parfaitement à mes objectifs de carrière et je suis convaincu de pouvoir apporter une contribution significative à votre équipe.",
+    "coverLetterClosing": "J'espère avoir l'occasion de discuter de la manière dont mes compétences et mon expérience peuvent bénéficier à votre équipe. Merci de considérer ma candidature.",
+    "yourCompany": "votre entreprise",
+    "position": "poste"
+  },
+  "professionalresume": {
+    "profilePhotoAlt": "Photo de profil",
+    "yourName": "Votre nom",
+    "summary": "Résumé",
+    "experience": "Expérience",
+    "position": "Poste",
+    "company": "Entreprise",
+    "date": "Date",
+    "projects": "Projets",
+    "projectName": "Nom du projet",
+    "education": "Éducation",
+    "degree": "Diplôme",
+    "institution": "Établissement",
+    "certifications": "Certifications",
+    "skills": "Compétences",
+    "noSummary": "Aucun résumé fourni"
+  },
+  
+  "modernResume": {
+    "yourName": "Votre nom",
+    "professionalSummary": "Résumé professionnel",
+    "workExperience": "Expérience professionnelle",
+    "position": "Poste",
+    "company": "Entreprise",
+    "date": "Date",
+    "projects": "Projets",
+    "projectName": "Nom du projet",
+    "education": "Éducation",
+    "degree": "Diplôme",
+    "institution": "Établissement",
+    "skills": "Compétences",
+    "certifications": "Certifications",
+    "certification": "Certification",
+    "languages": "Langues",
+    "interests": "Centres d'intérêt",
+    "customTitle": "Titre personnalisé",
+    "customContent": "Le contenu personnalisé s'affiche ici."
+  },
+  
+  "minimalistResume": {
+    "yourName": "Votre nom",
+    "experience": "Expérience",
+    "position": "Poste",
+    "date": "Date",
+    "company": "Entreprise",
+    "projects": "Projets",
+    "projectName": "Nom du projet",
+    "education": "Éducation",
+    "degree": "Diplôme",
+    "institution": "Établissement",
+    "skills": "Compétences",
+    "languages": "Langues",
+    "interests": "Centres d'intérêt"
+  },
+  
+  "creativeResume": {
+    "yourName": "Votre nom",
+    "aboutMe": "À propos de moi",
+    "workExperience": "Expérience professionnelle",
+    "position": "Poste",
+    "company": "Entreprise",
+    "date": "Date",
+    "projects": "Projets",
+    "projectName": "Nom du projet",
+    "education": "Éducation",
+    "degree": "Diplôme",
+    "institution": "Établissement",
+    "skills": "Compétences",
+    "certifications": "Certifications",
+    "languages": "Langues",
+    "interests": "Centres d'intérêt"
+  },
+  
+  "professionalDark": {
+    "skills": "Compétences",
+    "languages": "Langues",
+    "certifications": "Certifications",
+    "interests": "Centres d'intérêt",
+    "profile": "Profil",
+    "professionalExperience": "Expérience professionnelle",
+    "projects": "Projets",
+    "education": "Éducation"
+  },
+  
+  "professionalPurple": {
+    "experience": "Expérience professionnelle",
+    "education": "Formation",
+    "projects": "Projets",
+    "personalInfo": "Informations personnelles",
+    "skills": "Compétences",
+    "languages": "Langues",
+    "certifications": "Certifications",
+    "interests": "Centres d'intérêt"
+  },
+  
+  "professionalModern": {
+    "personalInfo": "Informations Personnelles",
+    "profile": "Profil",
+    "experience": "Expérience Professionnelle",
+    "education": "Formation",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "languages": "Langues",
+    "certifications": "Certificats",
+    "interests": "Centres d'intérêt"
+  },
+  
+  "executiveResume": {
+    "summary": "RÉSUMÉ EXÉCUTIF",
+    "experience": "EXPÉRIENCE PROFESSIONNELLE",
+    "education": "ÉDUCATION",
+    "projects": "PROJETS CLÉS",
+    "skills": "COMPÉTENCES CLÉS",
+    "languages": "MAÎTRISE DES LANGUES",
+    "certifications": "CERTIFICATIONS & TITRES",
+    "interests": "CENTRES D'INTÉRÊT"
+  },
+  
+  "technicalResume": {
+    "summary": "RÉSUMÉ TECHNIQUE",
+    "skills": "COMPÉTENCES TECHNIQUES",
+    "experience": "EXPÉRIENCE PROFESSIONNELLE",
+    "projects": "PROJETS TECHNIQUES",
+    "education": "ÉDUCATION",
+    "certifications": "CERTIFICATIONS",
+    "languages": "LANGUES",
+    "interests": "CENTRES D'INTÉRÊT"
+  },
+  
+  "academicResume": {
+    "researchInterests": "DOMAINES DE RECHERCHE",
+    "education": "ÉDUCATION",
+    "publications": "PUBLICATIONS & RECHERCHE",
+    "teachingExperience": "ENSEIGNEMENT & EXPÉRIENCE PROFESSIONNELLE",
+    "skills": "COMPÉTENCES SPÉCIALISÉES",
+    "certifications": "CERTIFICATIONS & RÉCOMPENSES",
+    "languages": "LANGUES"
+  },
+  
+  "elegantResume": {
+    "profile": "PROFIL",
+    "experience": "EXPÉRIENCE PROFESSIONNELLE",
+    "education": "ÉDUCATION",
+    "projects": "PROJETS REMARQUABLES",
+    "skills": "DOMAINES D'EXPERTISE",
+    "certifications": "CERTIFICATIONS",
+    "languages": "LANGUES",
+    "interests": "CENTRES D'INTÉRÊT"
+  },
+  
+  "corporateResume": {
+    "professionalSummary": "RÉSUMÉ PROFESSIONNEL",
+    "professionalExperience": "EXPÉRIENCE PROFESSIONNELLE",
+    "education": "ÉDUCATION",
+    "keyCompetencies": "COMPÉTENCES CLÉS",
+    "keyProjects": "PROJETS CLÉS",
+    "certifications": "CERTIFICATIONS",
+    "languages": "LANGUES",
+    "interests": "CENTRES D'INTÉRÊT"
+  },
+  
+  "coverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre lieu",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre email",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour exprimer mon intérêt pour le poste de ",
+    "position": "poste",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "reference": "Référence",
+    "sincerely": "Cordialement,"
+  },
+  
+  "moderncoverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour exprimer mon intérêt pour le ",
+    "position": "poste",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "reference": "Référence",
+    "sincerely": "Cordialement,"
+  },
+  
+  "minimalistcoverLetter": {
+    "coverLetter": "Lettre de motivation",
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "recipientInformation": "Informations du destinataire :",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour exprimer mon intérêt pour le ",
+    "position": "poste",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "reference": "Référence",
+    "sincerely": "Cordialement,"
+  },
+  
+  "creativecoverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour exprimer mon intérêt pour le ",
+    "position": "poste",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "reference": "Référence",
+    "sincerely": "Cordialement,"
+  },
+  
+  "executivecoverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "recipientName": "Nom du destinataire",
+    "recipientTitle": "Titre du destinataire",
+    "recipientCompany": "Entreprise du destinataire",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour exprimer mon intérêt pour le ",
+    "position": "poste",
+    "positionAppend": " poste",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "reference": "Référence",
+    "intro2": ". Avec mon expérience approfondie en gestion de direction et mon parcours éprouvé, je suis convaincu de pouvoir apporter une valeur exceptionnelle à votre organisation.",
+    "sincerely": "Cordialement,"
+  },
+  
+  "technicalcoverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "application": "Candidature",
+    "position": "poste",
+    "reference": "Référence",
+    "recipientName": "Nom du destinataire",
+    "recipientTitle": "Titre du destinataire",
+    "recipientCompany": "Entreprise du destinataire",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour postuler au poste de ",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "intro2": ". En tant que professionnel technique avec une expertise spécialisée, je pense que mes compétences et mon expérience font de moi un candidat idéal pour ce rôle.",
+    "technicalExperience": "Expérience technique",
+    "technicalSkills": "Compétences techniques",
+    "whyInterested": "Pourquoi je suis intéressé",
+    "sincerely": "Cordialement,"
+  },
+  
+  "academiccoverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "academicProfessional": "Professionnel académique",
+    "recipientName": "Nom du destinataire",
+    "recipientTitle": "Titre du destinataire",
+    "recipientCompany": "Établissement du destinataire",
+    "dearProfessor": "Cher Professeur",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour exprimer mon intérêt pour le ",
+    "position": "poste",
+    "positionAppend": " poste",
+    "at": " à ",
+    "yourCompany": "votre établissement",
+    "reference": "Référence",
+    "intro2": ". Grâce à mon parcours académique, mon expérience en recherche et mes compétences pédagogiques, je suis convaincu de pouvoir apporter une contribution précieuse à votre département.",
+    "academicBackground": "PARCOURS ACADÉMIQUE",
+    "researchAndTeachingCompetencies": "COMPÉTENCES EN RECHERCHE ET ENSEIGNEMENT",
+    "interestInYourInstitution": "INTÉRÊT POUR VOTRE ÉTABLISSEMENT",
+    "respectfullySubmitted": "Respectueusement,"
+  },
+  
+  "corporatecoverLetter": {
+    "yourName": "Votre nom",
+    "yourLocation": "Votre localisation",
+    "yourPhone": "Votre téléphone",
+    "yourEmail": "Votre e-mail",
+    "professionalApplication": "Candidature professionnelle",
+    "corporateCoverLetter": "Lettre de motivation d'entreprise",
+    "position": "Poste",
+    "positionPlaceholder": "poste",
+    "reference": "Référence",
+    "recipientName": "Nom du destinataire",
+    "recipientTitle": "Titre du destinataire",
+    "recipientCompany": "Entreprise du destinataire",
+    "dear": "Cher",
+    "hiringManager": "Responsable du recrutement",
+    "intro1": "Je vous écris pour postuler au ",
+    "positionAppend": " poste",
+    "at": " chez ",
+    "yourCompany": "votre entreprise",
+    "intro2": ". Grâce à mon expérience professionnelle et à mes compétences, spécifiquement alignées sur vos exigences, je suis convaincu de pouvoir apporter une contribution immédiate à votre organisation.",
+    "professionalExperience": "Expérience professionnelle",
+    "coreCompetencies": "Compétences clés",
+    "why": "Pourquoi",
+    "sincerely": "Cordialement,",
+    "applicationFor": "Candidature pour"
+  },
+  "card":{
+    "defaultsummary": "Professionnel dévoué et polyvalent, doté d'une solide expérience en solutions de haute qualité, il sait exploiter son expertise technique et ses compétences collaboratives pour assurer la réussite de ses projets et atteindre ses objectifs commerciaux."
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
