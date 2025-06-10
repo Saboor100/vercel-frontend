@@ -16,7 +16,7 @@ import i18n from '@/i18n';
 
 // Create an Axios instance for any remaining API needs
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'https://vercel-backend-coral-kappa.vercel.app/',
+  baseURL: import.meta.env.VITE_API_URL || 'https://vercel-backend-coral-kappa.vercel.app/api',
   headers: {
     'Content-Type': 'application/json',
   },
